@@ -30,10 +30,10 @@ Tic-Tac-Toe game made in C programming language. Graphics is realized by “ncur
 	- Left and right arrows (or A and D keys) for changing parameters
 	- ESC to return to the menu
 
-![PvP](https://github.com/DenCoderEXE/Tic-Tac-Toe/blob/main/src/Menu.gif)
+![PvP](https://github.com/DenCoderEXE/Tic-Tac-Toe/blob/main/assets/Menu.gif)
 
-![Settings](https://github.com/DenCoderEXE/Tic-Tac-Toe/blob/main/src/Settings.gif)
+![Settings](https://github.com/DenCoderEXE/Tic-Tac-Toe/blob/main/assets/Settings.gif)
 
-![PvP](https://github.com/DenCoderEXE/Tic-Tac-Toe/blob/main/src/PvP.gif)
+![PvP](https://github.com/DenCoderEXE/Tic-Tac-Toe/blob/main/assets/PvP.gif)
 
-![PvE](https://github.com/DenCoderEXE/Tic-Tac-Toe/blob/main/src/PvE.gif) 
+![PvE](https://github.com/DenCoderEXE/Tic-Tac-Toe/blob/main/assets/PvE.gif) 
