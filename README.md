@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe game made in C programming language. Graphics is realized by “ncurses” library.
+Tic-Tac-Toe game written in C with GUI implemented using “ncurses” library.
 
 ## The game features:
 - console-based user interface
